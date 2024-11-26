@@ -15,7 +15,7 @@ Welcome to my corner of the internet! I’m a **Computer Science student** from 
 
 ## 💬 Let's Connect!
 
-- 🌐 [Website](https://tarreqmaulana.com)  
+- 🌐 [tarreqmaulana.com](https://tarreqmaulana.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/tarreqmaulana)  
 
 ---
