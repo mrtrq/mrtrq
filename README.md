@@ -13,13 +13,6 @@ Welcome to my corner of the internet! I’m a **Computer Science student** from 
 
 ---
 
-## 💬 Let's Connect!
-
-- 🌐 [tarreqmaulana.com](https://tarreqmaulana.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/tarreqmaulana)  
-
----
-
 ⭐️ *"Building technology for people and creating opportunities to grow."*  
 Thanks for stopping by! Feel free to follow me & check out my repositories and drop a star if you find something interesting. 
 
