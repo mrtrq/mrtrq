@@ -1,6 +1,6 @@
 # Hi there, I'm Tarreq! 👋
 
-Welcome to my corner of the internet! I’m a **Computer Science student** from **Universitas Indonesia**, passionate about bridging the gap between people and technology. 🌍 I thrive at the intersection of **machine learning**, **software engineering**, and **front-end development**.
+Welcome to my corner of the internet! I’m a **Computer Science student** from **Universitas Indonesia** and an aspiring lifelong learner
 
 ---
 
