@@ -7,8 +7,8 @@ Welcome to my corner of the internet! I have completed my Bachelor's degree prog
 ## Contact
 
 ---
-Personal Website: mrtrq.github.io/
-email: (my_first_name)(my_middle_name)[at]ui.ac.id
+- Personal Website: mrtrq.github.io/
+- email: (my_first_name)(my_middle_name)[at]ui.ac.id
 
 
 <!--
