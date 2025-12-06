@@ -1,4 +1,4 @@
-# Hi there, I'm Tarreq! 👋
+## Hi there, I'm Tarreq! 👋
 
 Welcome to my corner of the internet! I have completed my Bachelor's degree program in Computer Science from the University of Indonesia. Other than code, you will find me photographing and stargazing.
 
