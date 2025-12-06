@@ -1,22 +1,14 @@
 # Hi there, I'm Tarreq! 👋
 
-Welcome to my corner of the internet! I’m a **Computer Science student** from **Universitas Indonesia** and an aspiring lifelong learner
+Welcome to my corner of the internet! I have completed my Bachelor's degree program in Computer Science from the University of Indonesia. Other than code, you can find me photographing and stargazing.
 
 ---
 
-## 🔧 Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+## Contact
 
 ---
-
-⭐️ *"Building technology for people and creating opportunities to grow."*  
-Thanks for stopping by! Feel free to follow me & check out my repositories and drop a star if you find something interesting. 
-
-
+Personal Website: mrtrq.github.io/
+email: (my_first_name)[dot](my_middle_name)[at]ui.ac.id
 
 
 <!--
